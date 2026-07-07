@@ -1,4 +1,8 @@
 aiogram
-aiohttp==3.10.10
-python-dotenv==1.0.1
-Flask==3.1.3
+aiohttp
+python-dotenv
+Flask
+
+
+
+
