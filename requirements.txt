@@ -1,7 +1,10 @@
-aiogram
+aiogram==3.15.0
 aiohttp
 python-dotenv
-Flask
+
+
+
+
 
 
 
